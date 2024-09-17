@@ -6,7 +6,7 @@ As a dedicated and aspiring engineer with a strong foundation in mechanical prin
 
 I thrive in collaborative environments and enjoy working alongside teams to achieve impactful outcomes. With a commitment to excellence and a keen interest in staying at the forefront of technological developments, I aim to apply my skills in roles where I can contribute to innovative and practical engineering solutions.
 
-
+This portfolio was created to showcase projects and accomplishments that are not often reflected in resumes. Hopefully this can display my ability to design and create. 
 ### Education 
 BEng (Hons) Mechanical Engineering
 
