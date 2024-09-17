@@ -1,47 +1,20 @@
 # Mechanical Engineer 
 
+
+### About Me
+As a dedicated and aspiring engineer with a strong foundation in mechanical principles and a passion for problem-solving, I am driven to develop innovative solutions that contribute to industry advancements. Having pursued a mechanical engineering degree, I have honed my technical skills through academic projects and hands-on experiences. My enthusiasm for continuous learning and tackling complex challenges has fueled my growth in areas such as materials science, design, and sustainable engineering practices.
+
+I thrive in collaborative environments and enjoy working alongside teams to achieve impactful outcomes. With a commitment to excellence and a keen interest in staying at the forefront of technological developments, I aim to apply my skills in roles where I can contribute to innovative and practical engineering solutions.
+
+
 ### Education 
 BEng (Hons) Mechanical Engineering
+
 MSc (Hons) Advanced Mechanical Engineering 
 
 
 ### Work Experience 
 Apple Genius @ Apple Retail
-
-I worked at Apple as a specialist, which involves interacting with customers regarding their various needs such as technical issues or providing more information on the current items that Apple sells. 
-
-I then had the opportunity to work as a technical specialist where I repaired Apple devices in both software and hardware issues.
-Key Responsibilities and Achievements:
-
-• Technical Support: Provided troubleshooting for Apple hardware and software, resolving 90% of
-issues on first contact.
-
-• Customer Service: Delivered exceptional customer experiences guiding users through device
-setup, repairs, and software installations, consistently receiving top ratings in customer
-satisfaction surveys.
-
-• Training and Education: Conducted one-on-one and group training sessions for customers and
-staff, improving product knowledge and usage skills.
-
-• Product Knowledge: Maintained up-to-date knowledge of the latest Apple products, operating
-systems, and software, ensuring accurate information and recommendations for customers.
-
-• Repair and Diagnostics: Diagnosed and repaired Apple devices, including iPhones, iPads, Macs,
-and Apple Watches, utilizing advanced tools and techniques in alignment with Apple’s standards.
-
-• Sales Support: Assisted the sales team by providing technical expertise, leading to a 15%
-increase in product upsell and cross-sell opportunities.
-
-Technical Skills:
-
-• Proficient in macOS and iOS ecosystems, with hands-on experience in troubleshooting, software
-updates, and system restorations.
-
-• Skilled in using Apple diagnostic tools and repair systems, including Apple Service Toolkit and
-GSX (Global Service Exchange).
-
-• Expertise in iCloud, iTunes, and Apple ID management, including data migration and backup
-solutions.
 
 
 ### Projects 
