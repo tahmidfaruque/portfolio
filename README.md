@@ -7,6 +7,7 @@ MSc (Hons) Advanced Mechanical Engineering
 
 ### Work Experience 
 Apple Genius @ Apple Retail
+
 I worked at Apple as a specialist, which involves interacting with customers regarding their various needs such as technical issues or providing more information on the current items that Apple sells. 
 I then had the opportunity to work as a technical specialist where I repaired Apple devices in both software and hardware issues.
 Key Responsibilities and Achievements:
